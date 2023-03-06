@@ -1,4 +1,3 @@
-#This is a note page recording functions for turtle
 #import turtle
 from turtle import *
 
