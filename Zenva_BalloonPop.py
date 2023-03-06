@@ -1,3 +1,4 @@
+#This was a simple "game" where you press a button to inflate and pop a balloon.
 #import turtle
 from turtle import *
 
@@ -21,14 +22,11 @@ def inflate_balloon ():
         write('POP!')
         draw_balloon()
 
-
 #code
 draw_balloon()
 
 onkey(inflate_balloon, 'w')
 listen()
-
-
 
 #keep at bottom
 #prevent window from closing
