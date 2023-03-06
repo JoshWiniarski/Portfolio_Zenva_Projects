@@ -1,4 +1,4 @@
-#import turtle
+#This was a simple project which instructed me to draw several different circles at specifics size, color, and distance from one another using turtle
 from turtle import *
 
 speed(0)
